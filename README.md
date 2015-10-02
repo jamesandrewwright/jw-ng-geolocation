@@ -2,6 +2,8 @@
 
 Angular wrapper around navigator geolocation object.
 
+[![Build Status](https://travis-ci.org/jamesgfc/jw-ng-geolocation.svg?branch=master)](https://travis-ci.org/jamesgfc/jw-ng-geolocation)
+
 ## Build & development
 
 Run `grunt test` for unit tests and `grunt` to build.
