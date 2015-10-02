@@ -1,6 +1,6 @@
 {
   "name": "jw-ng-geolocation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular wrapper around navigator geolocation object",
   "main": "dist/jw-ng-geolocation.js",
   "scripts": {
