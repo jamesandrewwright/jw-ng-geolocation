@@ -8,7 +8,9 @@ Run `grunt test` for unit tests and `grunt` to build.
 
 ## Usage
 
-Simply depend on "jw.geolocation" in your angular module and inject 'geolocation factory'
+Include 'node_modules/dist/jw-ng-geolocation.js' or 'node_modules/dist/jw-ng-geolocation.min.js'
+
+Depend on "jw.geolocation" in your angular module and inject geolocationFactory
 
 Example:
 
